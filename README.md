@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fyp711&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-- 🌱 I’m currently learning spark<br>
-- 💬 Ask me about spark or gluten<br>
+- 🌱 I’m currently working on data and AI<br>
 - 📫 How to reach me: coderfyp@gmail.com<br>
 - 😄 Pronouns: life is coding<br>
 
