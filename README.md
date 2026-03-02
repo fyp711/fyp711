@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fyp711&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-- 🌱 I’m currently working on AI <br>
+- 🌱 I’m currently working on Kingsoft Company <br>
 - 📫 How to reach me: coderfyp@gmail.com、1123920992@qq.com<br>
 - 😄 Pronouns: life is coding<br>
 
