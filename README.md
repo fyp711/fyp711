@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on Kingsoft Company <br>
+- 🌱 I’m currently working on Kingsoft Company & Project-HAMi Member <br>
 - 📫 How to reach me: coderfyp@gmail.com、1123920992@qq.com<br>
 - 😄 Pronouns: life is coding<br>
 
